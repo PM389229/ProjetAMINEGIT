@@ -1,0 +1,6 @@
+# Fichiers et répertoires à ignorer par Git
+__pycache__/
+*.pyc
+*.log
+logs/
+
